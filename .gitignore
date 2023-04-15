@@ -3,4 +3,4 @@
 *.db*
 Cargo.lock
 .env
-
+.DS_Store
